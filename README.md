@@ -5,7 +5,7 @@
 
 <!-- profile -->
   ## Who am I?
-  <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="350" alt="Hello" align="left" loop="infinite"/>
+  <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="347" alt="Hello" align="left" loop="infinite"/>
   
  ```python
  class WhoAmI:
@@ -28,6 +28,7 @@
 		# Assume 10 more awesome ambitions here  ;)
    
   ```
+ 
 <!-- contacts -->
 ### Meet me on <img src="https://staceypeasley.com/news/arrow-down-animated.gif" width="20px">
 

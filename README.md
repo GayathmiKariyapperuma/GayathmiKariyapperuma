@@ -22,7 +22,7 @@
 		return Gampaha_SriLanka()
 	
 	def Ambitions():
-    LearnMoreTechnologies()
+		LearnMoreTechnologies()
 		LearnSpanish()
 		PublishMyBook()
 		# Assume 10 more awesome ambitions here  ;)

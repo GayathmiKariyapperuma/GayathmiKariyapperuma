@@ -21,7 +21,7 @@
 	def getCity():
 		return Gampaha_SriLanka()
 	
-	def Ambitions():
+	def ambitions():
 		LearnMoreTechnologies()
 		LearnSpanish()
 		PublishMyBook()

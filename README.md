@@ -45,8 +45,6 @@
   
   + KNOCK,   KNOCK,   NEO.
  ```
-<!-- Most used languages
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GayathmiKariyapperuma&layout=compact"> -->
 
 <!-- programming languages with icons -->
 ## Programming Languages
@@ -58,6 +56,9 @@
 <!-- coding environments with icons -->
 ## Daily Workout via 
   <img src = 'https://services.google.com/fh/files/emails/android_studio_image.png' height='35'/> <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png' height='30'/> <img src = "https://cdn.svgporn.com/logos/github-octocat.svg" height="36"/>
+  
+  <!-- Most used languages -->
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GayathmiKariyapperuma&layout=compact&theme=dracula">
 
 <!-- ## Other Stuff
   - :octocat: [My Resume](https://drive.google.com/file/d/1r12H21TzxERUdxrNbbqBRdv1hQOcU2ko/view?usp=sharing)

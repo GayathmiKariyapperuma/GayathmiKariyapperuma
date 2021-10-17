@@ -34,8 +34,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gayathmi-sanudini-kariyapperuma)](https://www.linkedin.com/in/gayathmi-sanudini-kariyapperuma) [![Medium Page](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://www.medium.com/@gskariyapperuma)](https://www.medium.com/@gskariyapperuma) [![Youtube Channel](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCmh6HnJgdCuYkMENGT0Tt_g)](https://www.youtube.com/channel/UCmh6HnJgdCuYkMENGT0Tt_g) [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/gayathmisanudini.kariyapperuma.5/)](https://www.facebook.com/gayathmisanudini.kariyapperuma.5/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gayathmikariyapperuma@gmail.com)](mailto:gayathmikariyapperuma@gmail.com)
 
-<!-- Profile visits
+<!-- Profile visits 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=GayathmiKariyapperuma" alt="GSK" /> </p> -->
+  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 <!-- quote -->
   ```diff
@@ -48,7 +49,7 @@
 
 <!-- programming languages with icons -->
 ## Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+
 
 <img src = 'https://cdn.svgporn.com/logos/c.svg' width='32'/> <img src = 'https://cdn.svgporn.com/logos/c-plusplus.svg' width='32'/> <img src = 'https://cdn.svgporn.com/logos/python.svg' height='33'/>  <img src = 'https://cdn.svgporn.com/logos/html-5.svg' width='30'/> <img src = 'https://cdn.svgporn.com/logos/css-3.svg' width='30'/> <img src = 'https://cdn.svgporn.com/logos/javascript.svg' width='35'/> <img src = 'https://cdn.svgporn.com/logos/java.svg' width='39'/> <img src = 'https://cdn.svgporn.com/logos/kotlin.svg' width='35'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='44'/>
  <img src = 'https://cdn.svgporn.com/logos/mysql.svg' width='35'/> 
@@ -57,8 +58,10 @@
 ## Daily Workout via 
   <img src = 'https://services.google.com/fh/files/emails/android_studio_image.png' height='35'/> <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png' height='30'/> <img src = "https://cdn.svgporn.com/logos/github-octocat.svg" height="36"/>
   
-  <!-- Most used languages -->
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GayathmiKariyapperuma&layout=compact&theme=dracula">
+  <!-- Most used languages & My Stats-->
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GayathmiKariyapperuma&layout=compact&theme=dracula"> ![GSK's github stats](https://github-readme-stats.vercel.app/api?username=GayathmiKariyapperuma&show_icons=true&hide=[%22issues%22]&theme=dracula&custom_title=GSK's_GitHub_Stats) 
+  
+  
 
 <!-- ## Other Stuff
   - :octocat: [My Resume](https://drive.google.com/file/d/1r12H21TzxERUdxrNbbqBRdv1hQOcU2ko/view?usp=sharing)
@@ -66,5 +69,3 @@
   - :octocat: [My Resume](https://drive.google.com/file/d/1uxq1shtoVfoD8D4sD5MHN3drGVA50vlz/view?usp=sharing)
   - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: ) -->
 
-<!-- My Stats
-  ![GSK's github stats](https://github-readme-stats.vercel.app/api?username=GayathmiKariyapperuma&show_icons=true&hide=[%22issues%22]) -->

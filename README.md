@@ -12,11 +12,11 @@
  	user = 'G S Kariyapperuma'
 		current_edu = "Undergraduate at SLIIT"
 		hobbies = [
-				'Reading anything infront of me',
-				'Watching Movies',
-				'Listening to music',
-				'Writing reviews, stroies and more'
-				'Being up all Night chasing that ONE BUG...'
+			    'Reading anything infront of me',
+			    'Watching Movies',
+			    'Listening to music',
+		            'Writing reviews, stroies and more'
+			    'Being up all Night chasing that ONE BUG...'
 			]
 	
 	def getCity():

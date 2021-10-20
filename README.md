@@ -14,6 +14,7 @@
 		hobbies = [
 				'Reading anything infront of me',
 				'Watching Movies',
+				'Listening to music',
 				'Writing reviews, stroies and more'
 				'Being up all Night chasing that ONE BUG...'
 			]

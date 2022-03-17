@@ -58,7 +58,7 @@
 
 <!-- coding environments with icons -->
 ## Daily Workout via 
-  <img src = 'https://services.google.com/fh/files/emails/android_studio_image.png' height='35'/> <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png' height='30'/> <img src = "https://cdn.svgporn.com/logos/github-octocat.svg" height="36"/>
+  <img src = 'https://services.google.com/fh/files/emails/android_studio_image.png' height='35'/> <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png' height='30'/> <img src = 'https://image4.owler.com/logo/codesandbox_owler_20190520_073046_original.png' height='41'/> <img src = "https://cdn.svgporn.com/logos/github-octocat.svg" height="36"/> 
   
   <!-- Most used languages & My Stats-->
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GayathmiKariyapperuma&layout=compact&theme=dracula"> ![GSK's github stats](https://github-readme-stats.vercel.app/api?username=GayathmiKariyapperuma&show_icons=true&hide=[%22issues%22]&theme=dracula&custom_title=GSK's_GitHub_Stats) 

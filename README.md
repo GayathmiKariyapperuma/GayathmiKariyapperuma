@@ -31,7 +31,7 @@
   ```
  
 <!-- contacts -->
-### Meet me on <img src="https://staceypeasley.com/news/arrow-down-animated.gif" width="20px">
+### Meet me on <!--img src="https://staceypeasley.com/news/arrow-down-animated.gif" width="20px"-->
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gayathmi-sanudini-kariyapperuma)](https://www.linkedin.com/in/gayathmi-sanudini-kariyapperuma) [![Medium Page](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://www.medium.com/@gskariyapperuma)](https://www.medium.com/@gskariyapperuma) [![Youtube Channel](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCmh6HnJgdCuYkMENGT0Tt_g)](https://www.youtube.com/channel/UCmh6HnJgdCuYkMENGT0Tt_g) [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/gayathmisanudini.kariyapperuma.5/)](https://www.facebook.com/gayathmisanudini.kariyapperuma.5/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gayathmikariyapperuma@gmail.com)](mailto:gayathmikariyapperuma@gmail.com)

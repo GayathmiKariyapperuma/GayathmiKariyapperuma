@@ -24,7 +24,7 @@
 	
 	def ambitions():
 		LearnMoreTechnologies()
-		LearnSpanish()
+		LearnItalian()
 		PublishMyBook()
 		# Assume 10 more awesome ambitions here  ;)
    
@@ -55,7 +55,7 @@
 ## Interested in
 
 
-<img src = 'https://cdn.svgporn.com/logos/c.svg' width='32'/> <img src = 'https://cdn.svgporn.com/logos/c-plusplus.svg' width='32'/> <img src = 'https://cdn.svgporn.com/logos/python.svg' height='33'/>  <img src = 'https://cdn.svgporn.com/logos/html-5.svg' width='30'/> <img src = 'https://cdn.svgporn.com/logos/css-3.svg' width='30'/> <img src = 'https://cdn.svgporn.com/logos/javascript.svg' width='35'/> <img src = 'https://cdn.svgporn.com/logos/java.svg' width='39'/> <img src = 'https://cdn.svgporn.com/logos/kotlin.svg' width='35'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='44'/>
+<img src = 'https://cdn.svgporn.com/logos/react.svg' height='33'/>  <img src = 'https://cdn.svgporn.com/logos/html-5.svg' width='30'/> <img src = 'https://cdn.svgporn.com/logos/css-3.svg' width='30'/> <img src = 'https://cdn.svgporn.com/logos/javascript.svg' width='35'/> <img src = 'https://cdn.svgporn.com/logos/java.svg' width='39'/> <img src = 'https://cdn.svgporn.com/logos/python.svg' height='33'/> <img src = 'https://cdn.svgporn.com/logos/kotlin.svg' width='135'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='44'/>
  <img src = 'https://cdn.svgporn.com/logos/mysql.svg' width='35'/> 
 
 <!-- coding environments with icons -->
